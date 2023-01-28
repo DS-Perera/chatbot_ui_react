@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+/* custom cs will be here */
+.main-backround {
+  background-image: url("./Design/images/main-background.jpg");
+  height: 87.5vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 10vh;
+}
+.window-backround {
+  /* background-image: url("./Design/images/main-background.jpg"); */
+  height: 80vh;
+  width: 70%;
+  background-color: #c1c9eb;
+  margin-left: 15%;
+  border-radius: 20px;
+}
+.copyright-line-bottom {
+  /* height: 2vh; */
+  background: #2b2e51;
+}
+p {
+  margin: 0px;
+}
+.copyright-text {
+  font-size: 12px;
+  text-align: center;
+  color: #ffffff;
+  opacity: 0.6;
+}

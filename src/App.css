@@ -67,3 +67,15 @@ p {
   color: #ffffff;
   opacity: 0.6;
 }
+.navbar-background{
+  background: #2b2e51;
+  height: 78vh ;
+  width: 5%;
+  border-radius: 20px 0px 0px 20px;
+  padding: 1vh;
+}
+.navbar-icon{
+  height: 5vh;
+  padding:0px 10px;
+  margin-top: 10px;
+}

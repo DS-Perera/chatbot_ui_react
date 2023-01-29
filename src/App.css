@@ -53,6 +53,7 @@
   background-color: #c1c9eb;
   margin-left: 15%;
   border-radius: 20px;
+  display: flex;
 }
 .copyright-line-bottom {
   /* height: 2vh; */
@@ -67,15 +68,48 @@ p {
   color: #ffffff;
   opacity: 0.6;
 }
-.navbar-background{
+.navbar-background {
   background: #2b2e51;
-  height: 78vh ;
+  height: 78vh;
   width: 5%;
   border-radius: 20px 0px 0px 20px;
   padding: 1vh;
 }
-.navbar-icon{
+.navbar-icon {
   height: 5vh;
-  padding:0px 10px;
+  padding: 0px 10px;
   margin-top: 10px;
+}
+.content-title {
+  background: #1a4188;
+  color: #ffffff;
+  padding: 2% 4%;
+  width: 50vh;
+  margin: 4% 0;
+  border-radius: 0px 20px 20px 0px;
+}
+.welcome-asset {
+  height: 35vh;
+  margin-left: 280px;
+  margin-top: 30px;
+}
+.center {
+  justify-content: center;
+  display: flex;
+}
+
+.title01 {
+  font-size: 28px;
+  font-family: Poppins;
+  color: #0178ff;
+  margin-bottom: -10px;
+  text-align: center;
+  margin-top: 3%;
+}
+.title02 {
+  font-size: 34px;
+  font-family: Poppins;
+  color: #0178ff;
+  margin-top: 0px;
+  text-align: center;
 }
